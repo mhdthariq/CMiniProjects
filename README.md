@@ -4,17 +4,27 @@ Welcome to **CMiniProjects** – a repository dedicated to learning C programmin
 
 ## Projects
 
-### 1. Rock Paper Scissors Game
+### 1. Quiz Game
+- **Description:** A simple console-based quiz game that tests the user's knowledge with basic computer-related questions.
+- **Concepts Learned:**
+  - User input handling
+  - String comparison
+  - Conditional statements and loops
+
+### 2. Number Guessing Game
+- **Description:** A number guessing game where the user attempts to guess a randomly generated number within a specified range.
+- **Concepts Learned:**
+  - Random number generation
+  - Loop control
+  - User input validation
+
+### 3. Rock Paper Scissors Game
 - **Description:** A simple console-based Rock Paper Scissors game where the player competes against the computer.
 - **Concepts Learned:**
   - User input handling
   - Random number generation
   - Conditional statements and loops
   - String comparison and basic functions
-
-### 2. [Future Project Placeholder]
-- **Description:** To be added.
-- **Concepts Learned:**
 
 ## How to Run the Projects
 1. Clone the repository:
