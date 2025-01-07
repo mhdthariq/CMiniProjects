@@ -26,6 +26,14 @@ Welcome to **CMiniProjects** – a repository dedicated to learning C programmin
   - Conditional statements and loops
   - String comparison and basic functions
 
+### 4. Adventure Game
+- **Description:** A text-based adventure game where the player makes choices that shape the outcome of the game.
+- **Concepts Learned:**
+  - User input handling
+  - Conditional branching
+  - String comparison
+  - Basic game logic
+
 ## How to Run the Projects
 1. Clone the repository:
    ```bash
